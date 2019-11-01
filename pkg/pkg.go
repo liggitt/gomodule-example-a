@@ -1,5 +1,5 @@
 package pkg
 
 func Message() string {
-	return "3"
+	return "4"
 }
